@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexander-Matte
-- 👀 I’m interested in learning 
+- 👀 I’m interested in learning Web/Software Development
 - 🌱 I’m currently learning Git/HTML/CSS on The Odin Project
 - 💞️ I’m looking to collaborate on nothing at the moment! A little more time to learn and hopfully I'll be diving into projects!
 - 📫 How to reach me --- alex.matte71@gmail.com
