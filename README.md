@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexander-Matte
 - 👀 I’m interested in learning Web/Software Development
-- 🌱 I’m currently learning Git/HTML/CSS on The Odin Project. Later I will be diving into Javascript PHP with the help of Codeacademy
+- 🌱 I’m currently learning HTML/CSS and Javascript via The Odin Project.
 - 💞️ I’m looking to collaborate on nothing at the moment! A little more time to learn and hopfully I'll be contributing to projects!
 - 📫 How to reach me --- alex.matte71@gmail.com
 
